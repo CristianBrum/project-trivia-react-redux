@@ -31,12 +31,18 @@ Foi desenvolvido um jogo de perguntas e respostas baseado no jogo **Trivia** _(t
 Você pode acessar um **protótipo** completo da interface desejada para o projeto [**neste link**](https://www.figma.com/file/9XUqIwKEFBfbZn5t8MMZJY/Trivia---project?node-id=0%3A1).
 
 
-## Para roda o projeto:
+### Antes de começar:
 
+1. Clone o repositório
+  * `git clone git@github.com:CristianBrum/project-trivia-react-redux.git`.
+
+
+2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
     * `npm install`
   * Inicialize o projeto:
-    * `npm start`
+    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
+
 
 ### API de Trivia
 
